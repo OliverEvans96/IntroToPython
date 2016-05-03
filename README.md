@@ -1,6 +1,6 @@
 
 <center>
-<img src="python-logo-generic.svg" width=100% />
+<img src="readme_images/python-logo-generic.svg" width=100% />
 </center>
 
 # Python
